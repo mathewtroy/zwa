@@ -1,9 +1,9 @@
 <?php
 
 $hostname = 'localhost';
-$username = 'krossale';
-$password = 'webove aplikace';
-$database = 'krossale';
+$username = 'my_name';
+$password = 'password';
+$database = 'my_name';
 
 // Create connection
 $conn = new mysqli($hostname, $username, $password, $database);

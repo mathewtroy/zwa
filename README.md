@@ -1,7 +1,7 @@
 # ZWA (Základy webových aplikací)
-**Code**: B6B39ZWA<br>
-**Name**: Foundations of Web Applications<br>
-**Faculty**: Faculty of Electrical Engineering<br>
+**Code**: B6B39ZWA <br>
+**Name**: Foundations of Web Applications <br>
+**Faculty**: Faculty of Electrical Engineering <br>
 **Department**: 13139 - Department of Computer Graphics and Interaction <br>
 ## Author: Aleksandr Kross 
 [**Email of Aleksandr Kross**](<krossale@fel.czut.cz>) <br>
